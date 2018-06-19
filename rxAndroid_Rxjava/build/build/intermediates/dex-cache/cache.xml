@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_14afbbdc2a561b4156646e6e597d3da90f1430df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_a6d676a5c71e35ced9e2c033b5d3e3ac5ab21cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_ac1a40ca19c27c875cb4c7b13e74b9396cdda7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_7abbab851db88824894038eabce37a85a8779d2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_69995e7878daf028f8314f296164de7cd25015c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\swdtools\.m2\.m2\M2_Repositry\org\reactivestreams\reactive-streams\1.0.0\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_6aaac4b1c3ebbf3761516542958c439db082f471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_1c020b0003422bba783034a0d97e8bbcb6a691b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_cd234ad02bc34f3cf0e7fadd525509f16982a30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AppData\Local\Sdk\extras\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_6bd2d99b67f0b3971494877cc3bfd39040fdac72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_5998decdd33564c767f7d8327e775413c156ec38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_a51ce2e13a387fd437753e0018ea345210125e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\swdtools\.m2\.m2\M2_Repositry\io\reactivex\rxjava2\rxjava\2.1.1\rxjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="99895d4dc6d79efbb74360f13c556d95533ad8f8">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\rxjava-2.1.1_527ac76abf0a59f69eb3bf7c786c2682efa4ebbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_0b9fbb1a4afcce821e3039136b437fae4b146119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\43739594\AndroidStudioProjects\CRxjavaDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_e0f0074d28b77b73a16343579ba59aa7b263ad54.jar" />
+    </item>
+
+</items>
